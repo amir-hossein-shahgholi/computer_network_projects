@@ -1,0 +1,9 @@
+[submodule "CN_CHomeworks_1"]
+	path = CN_CHomeworks_1
+	url = git@github.com:amir-hossein-shahgholi/CN_CHomeworks_1.git
+[submodule "CN_CHomeworks_3"]
+	path = CN_CHomeworks_3
+	url = git@github.com:amir-hossein-shahgholi/CN_CHomeworks_3.git
+[submodule "CN_CHomeworks_2"]
+	path = CN_CHomeworks_2
+	url = git@github.com:amir-hossein-shahgholi/CN_CHomeworks_2.git
